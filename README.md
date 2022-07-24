@@ -46,8 +46,12 @@
         <td><a href="https://www.python.org">🐍 Python 3</a></td>
     </tr>
     <tr>
-        <td>IDE</td>
+      <td>IDE</td>
       <td> <img height=20 width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> <a href="https://code.visualstudio.com">Visual Studio Code </a></td>
+    </tr>
+    <tr>
+    <td>Source</td>
+    <td><a href="https://www.youtube.com/watch?v=7U3-pJZkN-o">YouTube: Dev Aprender</a></td>
     </tr>
 </table>
 
@@ -102,5 +106,9 @@
     <tr>
         <td>IDE</td>
       <td> <img height=20 width=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /> <a href="https://code.visualstudio.com">Visual Studio Code </a></td>
+    </tr>
+    <tr>
+    <td>Fonte</td>
+    <td><a href="https://www.youtube.com/watch?v=7U3-pJZkN-o">YouTube: Dev Aprender</a></td>
     </tr>
 </table>
