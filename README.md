@@ -59,7 +59,7 @@
 ## Descrição :brazil:
 
 <h1 align="center">
-  <a>4 Projetos em Python com GUI</a>
+  <a>4 Projetos em Python com GUI.</a>
 </h1>
 
 <p align="center">📁 Repositório usado para armazenar arquivos de projetos em Python.</p>
