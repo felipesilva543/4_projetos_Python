@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a>8 projects in Python</a>
+  <a>4 Projects in Python with GUI</a>
 </h1>
 
 ## Description :eu:
@@ -9,43 +9,31 @@
 
 <table align="center" border="2">
   <tr>
-    <td>🎲 Project 1 - Dice Simulator.</td>
-    <td>Generates a random number between 1 and 6.</td>
-    <td>Working 🔨</td>
+    <td>🎲 Project 1.0 - Dice Simulator.<br>
+        &emsp;🎲 Project 1.1 - GUI.</td>
+    <td>- Generates a random number between 1 and 6.<br>
+        &emsp;- Dice simulator with GUI.</td>
+    <td>Completed ✅</td>
   </tr>
   <tr>
-    <td>🎲 Project 2 - GUI</td>
-    <td>GUI Dice simulator.</td>
+    <td>🔢 Project 2.0 - Kick a number.<br>
+    &emsp;🔢 Project 2.1 - GUI</td>
+    <td>- Algorithm that generates a random number and the user has to get it right.<br>
+    &emsp;- Kick a number with GUI.</td>
+    <td>Completed ✅</td>
+  </tr>
+  <tr>
+    <td>🗣 Projeto 3.0 - Decide for me.<br>
+    &emsp;🗣 Project 3.1 - GUI</td>
+    <td>- Ask the program a question and it will answer you.<br>
+    &emsp;- Decide for me with GUI.</td>
     <td>On Hold ⏳</td>
   </tr>
   <tr>
-    <td>🔢 Project 3 - Kick a number.</td>
-    <td>Algorithm that generates a random number and the user has to get it right.</td>
-    <td>On Hold ⏳</td>
-  </tr>
-  <tr>
-    <td>🔢 Project 4 - GUI</td>
-    <td>GUI Kick a number.</td>
-    <td>On Hold ⏳</td>
-  </tr>
-  <tr>
-    <td>🗣 Projeto 5 - Decide for me.</td>
-    <td>Ask the program a question and it will answer you.</td>
-    <td>On Hold ⏳</td>
-  </tr>
-  <tr>
-    <td>🗣 Project 6 - GUI</td>
-    <td>GUI Decide for me.</td>
-    <td>On Hold ⏳</td>
-  </tr>
-  <tr>
-    <td>🌵 Project 7 - Adventure game.</td>
-    <td>Decision game with multiple endings.</td>
-    <td>On Hold ⏳</td>
-  </tr>
-  <tr>
-    <td>🌵 Project 8 - GUI</td>
-    <td>GUI Adverture game.</td>
+    <td>🌵 Project 4.0 - Adventure game.<br>
+    &emsp;🌵 Project 4.1 - GUI</td>
+    <td>- Decision game with multiple endings.<br>
+    &emsp;- Adverture game with GUI.</td>
     <td>On Hold ⏳</td>
   </tr>
 </table>
