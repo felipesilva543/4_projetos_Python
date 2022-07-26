@@ -28,14 +28,14 @@
     &emsp;🗣 Project 3.1 - GUI</td>
     <td>- Ask the program a question and it will answer you.<br>
     &emsp;- Decide for me with GUI.</td>
-    <td>Working 🔨</td>
+    <td>Completed ✅</td>
   </tr>
   <tr>
     <td>🌵 Project 4.0 - Adventure game.<br>
     &emsp;🌵 Project 4.1 - GUI</td>
     <td>- Decision game with multiple endings.<br>
     &emsp;- Adverture game with GUI.</td>
-    <td>On Hold ⏳</td>
+    <td>Working 🔨</td>
   </tr>
 </table>
 
@@ -86,14 +86,14 @@
     &emsp;🗣 Projeto 3.1 - GUI</td>
     <td>- Faça uma pergunta para o programa e ele te responde.<br>
     &emsp;- Decida por mim com GUI.</td>
-    <td>Trabalhando 🔨</td>
+    <td>Completo ✅</td>
   </tr>
   <tr>
     <td>🌵 Projeto 4.0 - Jogo de aventura.<br>
     &emsp;🌵 Projeto 4.1 - GUI</td>
     <td>- Jogo de decisões com vários finais.<br>
     &emsp;- Jogo de aventura com GUI.</td>
-    <td>Em espera ⏳</td>
+    <td>Trabalhando 🔨</td>
   </tr>
 </table>
 
