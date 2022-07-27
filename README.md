@@ -6,7 +6,7 @@
 
 <p align="center">📁 Repository used to store Python project files.</p>
 
-<h3 align="center"> Status: Working 🔨</h3>
+<h3 align="center"> Status: Completed ✅</h3>
 
 <table align="center" border="2">
   <tr align="center">
@@ -44,7 +44,7 @@
     <td>- Decision game with multiple endings.<br>
     &emsp;- Adverture game with GUI.</td>
     <td>4.0 Completed ✅<br>
-        4.1 Working 🔨</td>
+        4.1 Completed ✅</td>
   </tr>
 </table>
 
@@ -73,7 +73,7 @@
 
 <p align="center">📁 Repositório usado para armazenar arquivos de projetos em Python.</p>
 
-<h3 align="center"> Status: Trabalhando 🔨</h3>
+<h3 align="center"> Status: Completo ✅</h3>
 
 <table align="center" border="2">
   <tr align="center">
@@ -111,7 +111,7 @@
     <td>- Jogo de decisões com vários finais.<br>
     &emsp;- Jogo de aventura com GUI.</td>
     <td>4.0 Completo ✅<br>
-        4.1 Trabalhando 🔨</td>
+        4.1 Completo ✅</td>
   </tr>
 </table>
 
